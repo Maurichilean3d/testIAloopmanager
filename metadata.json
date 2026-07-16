@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Systems Canvas",
+  "description": "Canvas metodológico para diseñar, validar y compilar proyectos de IA con contexto, loops y harness operativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_OPENAI_API"]
+}

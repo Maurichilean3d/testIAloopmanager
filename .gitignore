@@ -1,0 +1,28 @@
+# Canvas Loop Infrastructure & Credentials
+.canvas/
+control LOOP/
+loop-run-log.md
+.env
+.env.local
+
+# Canvas Methodology Specs (Only keep application code in src/ and tests/)
+.codex/
+config/
+docs/
+harness/
+loops/
+patterns/
+.github/
+AGENTS.md
+CLAUDE.md
+CONTEXT.md
+DECISIONS.md
+IMPLEMENTATION_PLAN.md
+LOOP.md
+MULTI_AGENT_ORCHESTRATION.md
+MVP_SCOPE.md
+RISKS.md
+STATE.md
+SYSTEM_ARCHITECTURE.md
+loop-budget.md
+loop-constraints.md
